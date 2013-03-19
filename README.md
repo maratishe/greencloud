@@ -34,6 +34,20 @@ Execution
 
 (3) if you need to process results, you need to aggregate JSON[ 'data'] into a bz64jsonl file. The following code allows you to read and write bz64jsonl files where each line is baze64( bzip2( JSON)).
 
+<code>
 
+// writing logic
+$out = foutopen( 'somefile.bz64jsonl', 'w'); // 'a' for append
+foutwrite( $out, $JSONDATA);
+$filesize = foutclose( $out); // you can use filesize for monitoring
+
+// reading logic
+$in = finopen( 'somefile.bz64jsonl');
+while ( ! findone( $in)) {
+	list( $JSONDATA, $progress) = finread( $in); // use $progress for monitoring
+}
+finclose( $in);
+
+</code>
 
 
