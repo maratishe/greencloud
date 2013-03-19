@@ -1,0 +1,301 @@
+[
+	{
+		"load": 0.3,
+		"range": 0.5},
+	{
+		"load": 0.29,
+		"range": 0.46},
+	{
+		"load": 0.28,
+		"range": 0.43},
+	{
+		"load": 0.27,
+		"range": 0.4},
+	{
+		"load": 0.26,
+		"range": 0.37},
+	{
+		"load": 0.26,
+		"range": 0.34},
+	{
+		"load": 0.25,
+		"range": 0.32},
+	{
+		"load": 0.24,
+		"range": 0.3},
+	{
+		"load": 0.23,
+		"range": 0.28},
+	{
+		"load": 0.23,
+		"range": 0.26},
+	{
+		"load": 0.22,
+		"range": 0.25},
+	{
+		"load": 0.22,
+		"range": 0.23},
+	{
+		"load": 0.21,
+		"range": 0.22},
+	{
+		"load": 0.2,
+		"range": 0.21},
+	{
+		"load": 0.2,
+		"range": 0.2},
+	{
+		"load": 0.19,
+		"range": 0.19},
+	{
+		"load": 0.19,
+		"range": 0.18},
+	{
+		"load": 0.19,
+		"range": 0.17},
+	{
+		"load": 0.18,
+		"range": 0.17},
+	{
+		"load": 0.18,
+		"range": 0.16},
+	{
+		"load": 0.17,
+		"range": 0.15},
+	{
+		"load": 0.17,
+		"range": 0.15},
+	{
+		"load": 0.17,
+		"range": 0.14},
+	{
+		"load": 0.16,
+		"range": 0.14},
+	{
+		"load": 0.16,
+		"range": 0.14},
+	{
+		"load": 0.16,
+		"range": 0.13},
+	{
+		"load": 0.15,
+		"range": 0.13},
+	{
+		"load": 0.15,
+		"range": 0.13},
+	{
+		"load": 0.15,
+		"range": 0.12},
+	{
+		"load": 0.15,
+		"range": 0.12},
+	{
+		"load": 0.14,
+		"range": 0.12},
+	{
+		"load": 0.14,
+		"range": 0.12},
+	{
+		"load": 0.14,
+		"range": 0.12},
+	{
+		"load": 0.14,
+		"range": 0.12},
+	{
+		"load": 0.14,
+		"range": 0.11},
+	{
+		"load": 0.13,
+		"range": 0.11},
+	{
+		"load": 0.13,
+		"range": 0.11},
+	{
+		"load": 0.13,
+		"range": 0.11},
+	{
+		"load": 0.13,
+		"range": 0.11},
+	{
+		"load": 0.13,
+		"range": 0.11},
+	{
+		"load": 0.13,
+		"range": 0.11},
+	{
+		"load": 0.13,
+		"range": 0.11},
+	{
+		"load": 0.12,
+		"range": 0.11},
+	{
+		"load": 0.12,
+		"range": 0.11},
+	{
+		"load": 0.12,
+		"range": 0.11},
+	{
+		"load": 0.12,
+		"range": 0.1},
+	{
+		"load": 0.12,
+		"range": 0.1},
+	{
+		"load": 0.12,
+		"range": 0.1},
+	{
+		"load": 0.12,
+		"range": 0.1},
+	{
+		"load": 0.12,
+		"range": 0.1},
+	{
+		"load": 0.12,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.11,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1},
+	{
+		"load": 0.1,
+		"range": 0.1}]

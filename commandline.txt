@@ -1,0 +1,13 @@
+# load function
+php load.php 0.5 0.1 load
+php loads.php 0.1:0.8:0.1 0:0.8:0.1
+php activity.php 100 0.1:0.1:0.5 0.05:0.1:0.3 activity
+
+php simulation.php 1 /mycode/mizukami simulation.data
+php run.php 1 . status.json	
+php /code/makascripts/cores/runs.php -1 /ntfs/green.migration run.php collect.php /ntfs/green.migration/raw.bz64jsonl
+
+
+php visualize.php 0.5 10
+
+
